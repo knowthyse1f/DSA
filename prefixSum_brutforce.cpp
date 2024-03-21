@@ -1,5 +1,6 @@
 //print all sub array 
 //find sum of all sub array (bruteforce approch ) 
+//time complexity O(N^3)
 
 #include<bits/stdc++.h>
 using namespace std;
